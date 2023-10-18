@@ -1,4 +1,4 @@
-# Evaluate Expression  
+# Calculate Expression  
 
 ### Requirements
 This is a C# Web API application that takes a string expression and calculates the output
