@@ -56,7 +56,8 @@ To solve the problem we have to:
   * If it's a number then it need to be appened to the previous number if its not finished then built it up (for example if the number is more than 1 digit long i.e '250') and keep track of this.
   * If it not an number apply that math operator
     * The order of execution follows BODMAS rules Division, Multiplcation first happens before Addition or subtraction.
-    * 
+    * the theory is to use three varaibles current number, previous number, the result of the addition and subtraction along with the operator maths that needs to apply to keep track of what the cumulative totals are depending on what operation needs to be done.
+   
 
 ## Validation
 Added validation for the following
